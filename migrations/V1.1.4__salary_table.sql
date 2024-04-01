@@ -1,2 +1,2 @@
-create table salary(emp_id number
+create table demo.salary(emp_id number
                    ,emp_name varchar);
