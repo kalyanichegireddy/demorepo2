@@ -1,4 +1,0 @@
-use schema demo;
-create table department(dep_id number,
-                        dep_name vrachar,
-                        dep_code number);
